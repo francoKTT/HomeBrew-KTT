@@ -1,0 +1,30 @@
+Drill report for DC-DC CONVERTOR 3A.kicad_pcb
+Created on di 22 jul 2025 20:07:33
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DC-DC CONVERTOR 3A-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,800mm  0,0315"  (17 holes)
+    T2  0,900mm  0,0354"  (2 holes)
+    T3  1,000mm  0,0394"  (4 holes)
+    T4  1,100mm  0,0433"  (7 holes)
+    T5  1,200mm  0,0472"  (6 holes)
+    T6  1,300mm  0,0512"  (6 holes)
+    T7  1,600mm  0,0630"  (2 holes)
+    T8  1,700mm  0,0669"  (2 holes)
+
+    Total plated holes count 46
+
+
+Drill file 'DC-DC CONVERTOR 3A-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3,500mm  0,1378"  (1 hole)
+
+    Total unplated holes count 1

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "testmodule")(type "KiCad")(uri "${KIPRJMOD}/aan-uit Temperatuur controller-backups/testmodule.kicad_sym")(options "")(descr ""))
+)

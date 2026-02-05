@@ -1,0 +1,15 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_D6.3mm_P2.50mm,1,220µf,
+"C2, C3",C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm,2,100nf,
+D1,Diode_Bridge_19.0x3.5x10.0mm_P5.0mm,1,B40C2300-1500A,
+J1,THERM-BLOCK-1x2_P5.08mm_frvdb,1,Screw_Terminal_01x02,
+J2,2_relay_shield_frvdb,1,CONN_04,
+"J3, J4",PinHeader_1x04_P2.54mm_Vertical,2,CONN_04,
+"R1, R4, R5",R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,3,10k,
+"R2, R3",R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,2,4k7,
+SW1,SW_PUSH_6mm,1,Reset,
+SW2,SW_PUSH_6mm,1,MinTemperatuur,
+SW3,SW_PUSH_6mm,1,Hysteresis,
+U1,TO-220-3_Horizontal_TabDown,1,L7805CV,L7805CV
+U2,esp32devkitC38_dil_on4aub,1,esp32 DevKitC V4,
+U3,frvdb_DIP-12_W10.16_socket,1,LEVELCONVERTER,
